@@ -37,5 +37,9 @@ int main()
 	ob1.Hello();
 	ob1.getCounter();
 
+	THello ob2;
+	ob2.Hello();
+	ob2.getCounter();
+
 	return 0;
 }
