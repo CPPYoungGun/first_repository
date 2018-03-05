@@ -40,6 +40,8 @@ int main()
 	THello ob2;
 	ob2.Hello();
 	ob2.getCounter();
+	
+	//test change
 
 	return 0;
 }
